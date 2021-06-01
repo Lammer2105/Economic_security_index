@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/bg"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/resource"
+        android:layout_width="107dp"
+        android:layout_height="46dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="154dp"
+        android:layout_marginTop="486dp"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="@color/cheese"
+        android:textSize="@dimen/text">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="262dp"
+        android:layout_height="37dp"
+        android:layout_alignTop="@+id/ies"
+        android:layout_alignParentStart="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="76dp"
+        android:layout_marginTop="-50dp"
+        android:gravity="center"
+        android:text="@string/ies"
+        android:textAlignment="center"
+        android:textColor="@color/cheese"
+        android:textSize="@dimen/text">
+
+    </TextView>
+
+    <TextView
+
+        android:id="@+id/ies"
+        android:layout_width="107dp"
+        android:layout_height="46dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="154dp"
+        android:layout_marginTop="82dp"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="@color/cheese"
+        android:textSize="@dimen/text">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="278dp"
+        android:layout_height="35dp"
+        android:layout_alignTop="@+id/finance"
+        android:layout_alignParentStart="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="68dp"
+        android:layout_marginTop="-51dp"
+        android:gravity="center"
+        android:text="@string/finance_macroeconomic"
+        android:textAlignment="center"
+        android:textColor="@color/cheese"
+        android:textSize="@dimen/text">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/finance"
+        android:layout_width="107dp"
+        android:layout_height="46dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="154dp"
+        android:layout_marginTop="254dp"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="@color/cheese"
+        android:textSize="@dimen/text">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="174dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/social"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="13dp"
+        android:layout_marginTop="-53dp"
+        android:layout_marginEnd="19dp"
+        android:layout_toStartOf="@+id/textView4"
+        android:gravity="center"
+        android:text="@string/social"
+        android:textAlignment="center"
+        android:textColor="@color/cheese"
+        android:textSize="@dimen/text">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/industrial"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="-47dp"
+        android:layout_marginEnd="7dp"
+        android:gravity="center"
+        android:text="@string/industrial"
+        android:textAlignment="center"
+        android:textColor="@color/cheese"
+        android:textSize="@dimen/text">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/industrial"
+        android:layout_width="107dp"
+        android:layout_height="46dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="252dp"
+        android:layout_marginTop="375dp"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="@color/cheese"
+        android:textSize="@dimen/text">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/resource"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="117dp"
+        android:layout_marginTop="-38dp"
+        android:layout_marginEnd="113dp"
+        android:gravity="center"
+        android:text="@string/resource"
+        android:textAlignment="center"
+        android:textColor="@color/cheese"
+        android:textSize="@dimen/text">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/social"
+        android:layout_width="107dp"
+        android:layout_height="46dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="48dp"
+        android:layout_marginTop="381dp"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textColor="@color/cheese"
+        android:textSize="@dimen/text">
+
+    </TextView>
+
+</RelativeLayout>

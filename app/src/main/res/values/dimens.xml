@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spinner_height">45dp</dimen>
+    <dimen name="spinner_margin">5dp</dimen>
+    <dimen name="text">50px</dimen>
+    <dimen name="about_text">55px</dimen>
+</resources>

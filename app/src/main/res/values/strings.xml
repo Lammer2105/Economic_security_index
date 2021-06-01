@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Economic security index</string>
+    <string name="enter_name">Назва item</string>
+    <string name="enter_price">0</string>
+    <string name="count">Обрахувати</string>
+    <string name="ies">Індекс економічної безпеки</string>
+    <string name="social">Соціальна безпека</string>
+    <string name="resource">Ресурсна безпека</string>
+    <string name="finance_macroeconomic">Фінансово-макроекономічна</string>
+    <string name="industrial">Промислово-сервісна</string>
+    <string name="about">Програма є власністю компанії \"Дукати\".\nАвтор додатку - Терещук Микола (Prime).\nДжерело розрахунків: Кваліфікаційна наукова праця Ставицького Андрія Володимировича: дисертація \"МОДЕЛЮВАННЯ ЕКОНОМІЧНОЇ БЕЗПЕКИ ДЕРЖАВИ  В УМОВАХ СУЧАСНИХ ГЛОБАЛІЗАЦІЙНИХ ВИКЛИКІВ\".\nАвтор іконки програми - Венгер Максим Анатолійович (MVmaxI)</string>
+</resources>
